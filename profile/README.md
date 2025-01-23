@@ -1,6 +1,6 @@
 # VChain
 
-![VChain Logo](https://VChaintech/logo.png)
+![VChain Logo( VCN)
 
 **VChain** là nền tảng blockchain tiên tiến dành cho doanh nghiệp, mang đến các giải pháp bảo mật và minh bạch cho các giao dịch thương mại điện tử và quản lý chuỗi cung ứng.
 
@@ -24,6 +24,7 @@
 ## Cài đặt
 
 ### 1. Clone repository
+![B7A51745-2AB0-44CB-AC2F-207D87D01135](https://github.com/user-attachments/assets/92d4d79e-eb75-4d2e-84a8-154a6d177085)
 
 ```bash
 git clone https://github.com/VChaintech/VChain.git
